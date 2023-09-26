@@ -1,2 +1,2 @@
 # Space
-This is my first project as a front end developer about space and the story of each astronaut of it
+My front-end project is a captivating webpage that serves as an introduction to space exploration and features famous astronauts. It includes a sleek header with navigation and social media links, a visually appealing home section describing the wonders of space, and a container showcasing notable astronauts with images and informative descriptions. The project effectively combines HTML, CSS, and external resources like Boxicons to create an engaging and informative web experience for visitors interested in space and astronaut history.
